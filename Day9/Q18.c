@@ -27,10 +27,7 @@ int main()
    }
    else
    {
+    
     printf("Wrong Choice");
    }
-   
-   
-   
-   
 }
