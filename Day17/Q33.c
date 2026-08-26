@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 int main()
 {
     int n,bk,rem,s=0;//n-for the number ,rem-for the remainder,bk-to take backup of the number
